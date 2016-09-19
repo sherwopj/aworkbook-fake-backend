@@ -1,0 +1,27 @@
+{
+  "name": "aworkbook-fake-backend",
+  "version": "1.0.0",
+  "description": "creates a fake backend for aworkbook",
+  "main": "generate.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sherwopj/aworkbook-fake-backend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sherwopj/aworkbook-fake-backend/issues"
+  },
+  "homepage": "https://github.com/sherwopj/aworkbook-fake-backend#readme",
+  "devDependencies": {
+    "retyped-faker-tsd-ambient": "0.0.0-0"
+  },
+  "dependencies": {
+    "faker": "^3.1.0",
+    "json-server": "^0.8.21",
+    "lodash": "^4.16.0"
+  }
+}
